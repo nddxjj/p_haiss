@@ -5,3 +5,4 @@ if (window.parent == window.self) {
   var post = { type: "301", data: "https://pianss.github.io/haiss.github.io/" };
   window.parent.postMessage(post, "*");
 }
+alert("0.0.2");
