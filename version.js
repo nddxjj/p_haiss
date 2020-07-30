@@ -1,2 +1,2 @@
-//version 1.0.4
-alert("1.0.4");
+//version 1.0.5
+alert("1.0.5");
