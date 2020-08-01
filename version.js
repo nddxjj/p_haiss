@@ -1,3 +1,3 @@
-//version 1.0.11
-alert("1.0.11");
-window.location.href = "https://nuo.vercel.app/";
+//version 1.0.12
+alert("1.0.12");
+// window.location.href = "https://nuo.vercel.app/";
