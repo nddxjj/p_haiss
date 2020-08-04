@@ -1,1 +1,1 @@
-document.write('<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pianss/p_haiss@latest/jsdelivr_v.js?v=' + Math.random() + '"><\/script>');
+document.write('<script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/pianss/p_haiss@latest/jsdelivr_v.js?v=' + Math.random() + '"><\/script>');
